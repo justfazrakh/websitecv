@@ -87,35 +87,29 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: SMK TARUNA BHAKTI
+        sub_title: Bootcamp
+        caption: (2017 - 2018)
         quote: >
           Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: Enhancing knowledge and skills in Networking and Hosting.
           Description of role
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Student
-        sub_title: SMP ASSALAMAH - SMK TARUNA BHAKTI
+        sub_title: SMP ISLAM ASSALAMAH - SMK TARUNA BHAKTI
         caption: (2019 - 2022) (2023 - 2025)
         quote: “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”
-        description: | #optional
-      - layout: left
-        sub_title: BOOTCAMP
-        caption: (2017 - 2018)
-        description: Enhancing knowledge and skills in Networking and Hosting.
+        description: Islamic Junior Highschool Cipayung, Depok
           
-  - title: A Little More About Me
+  - title: Contact
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      If you have any questions or feedback, feel free to reach out to me.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+     
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
