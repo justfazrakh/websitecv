@@ -8,9 +8,9 @@ version: 2
 # Personal info
 name: Rakha Faiza Abhinaya
 title: Saya Siswa SMK TARUNA BHAKTI Kelas XII TJKT 1
-email: faizaabhinaya7@gmail.com
+email: hatsunemiku@gmail.com
 # email_title: Email (Email title override)
-phone: 085772589663
+phone: (070) 412 3456
 # phone_title: Phone (Phone title override)
 website: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 # website_title: Web (Website title override)
@@ -55,8 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
  Hello my name is Rakha Faiza Abhinaya, im student at SMK TARUNA BHAKTI.During my academic journey, I have built a strong foundation in network architecture, protocols, and security principles. Practical experience in configuring routers, switches, and implementing network infrastructure has equipped me with hands-on skills in optimizing network performance and ensuring reliability. [Download CV](https://dav-port-alpha.vercel.app/files/Resume-Template.pdf).
 
     - Birthday: 12 June 2007
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - City: Depok, Indonesia
+    - Age: 17
+    - Degree: Student
+    - MBTI: INFJ (unnoficial)
 
 content:
   - title: Projects # Title for the section
