@@ -99,9 +99,9 @@ content:
       - layout: top-right
         title: Student
         sub_title: SMP ISLAM ASSALAMAH - SMK TARUNA BHAKTI
-        caption: (2019 - 2022) (2023 - 2025)
+        caption: (2019 - 2022) - (2023 - 2025)
         quote: | #optional
-        description: | #optional
+        description: Islamic Junior Highschool Cipayung, Depok - Passed into Taruna Bhakti Vocational School majoring in computer and network engineering.
           
   - title: Contact
     layout: text
