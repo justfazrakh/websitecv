@@ -91,7 +91,6 @@ content:
         sub_title: Bootcamp
         caption: (2017 - 2018)
         quote: >
-          Short description of the company (optional)
         description: Enhancing knowledge and skills in Networking and Hosting.
           Description of role
   - title: Education
@@ -101,11 +100,12 @@ content:
         title: Student
         sub_title: SMP ISLAM ASSALAMAH - SMK TARUNA BHAKTI
         caption: (2019 - 2022) (2023 - 2025)
-        quote: “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”
+        quote: | #optional
         description: Islamic Junior Highschool Cipayung, Depok
+        Entering Taruna Bhakti Vocational School majoring in computer and network engineering
           
   - title: Contact
-    layout: text
+    layout: center
     content: | # this will include new lines to allow paragraphs
       If you have any questions or feedback, feel free to reach out to me.
 
