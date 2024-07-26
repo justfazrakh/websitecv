@@ -103,7 +103,10 @@ content:
         sub_title: SMP ASSALAMAH - SMK TARUNA BHAKTI
         caption: (2019 - 2022) (2023 - 2025)
         quote: “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”
-          BOOTCAMP (2017 - 2018) SMK TARUNA BHAKTI
+        description: | #optional
+      - layout: left
+        sub_title: BOOTCAMP
+        caption: (2017 - 2018)
         description: Enhancing knowledge and skills in Networking and Hosting.
           
   - title: A Little More About Me
