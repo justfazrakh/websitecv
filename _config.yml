@@ -49,7 +49,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Tentang Saya (Use this to override about section title)
+about_title: Tentang Saya
 about_profile_image: https://github.com/user-attachments/assets/dda38be0-77e8-4a4a-9f2c-68c7991ecf32
 about_content: | # this will include new lines to allow paragraphs
  Master the fundamentals and several available tools, easily operate them, and be ready to create the prototype that the client wants [Download CV](https://dav-port-alpha.vercel.app/files/Resume-Template.pdf) and highlight things <mark>like this</mark>.
