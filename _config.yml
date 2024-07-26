@@ -105,7 +105,7 @@ content:
         quote: “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
