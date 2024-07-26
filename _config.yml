@@ -104,7 +104,7 @@ content:
         description: | #optional
           
   - title: Contact
-    layout: center
+    layout: text
     content: | # this will include new lines to allow paragraphs
       If you have any questions or feedback, feel free to reach out to me.
 
