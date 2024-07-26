@@ -101,8 +101,8 @@ content:
       - layout: top-right
         title: Pendidikan Sekolah
         sub_title: SD CILODONG 01 - SMK TARUNA BHAKTI
-        caption: Date Range (eg. 2016 - Now)
-        quote: >
+        caption: (2016 - Now)
+        quote: “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
