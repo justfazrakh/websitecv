@@ -52,7 +52,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: https://github.com/user-attachments/assets/dda38be0-77e8-4a4a-9f2c-68c7991ecf32
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a student in the field of Computer Network Engineering with 2 years of experience at school. I have strong skills in designing, managing and maintaining complex network infrastructure. I also have good analytical and problem solving skills, as well as the ability to work independently or in a team. I am always eager to learn new technologies and continue to develop my skills in the field of computer networks. [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
