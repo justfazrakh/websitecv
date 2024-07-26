@@ -69,9 +69,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: [Download CV](https://dav-port-alpha.vercel.app/files/Resume-Template.pdf)
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Download CV
+        link: https://dav-port-alpha.vercel.app/files/Resume-Template.pdf
+        link_text: Download CV
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
