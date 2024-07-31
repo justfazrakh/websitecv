@@ -58,8 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
     - City: Depok, Indonesia
     - Age: 17
     - Degree: Student
-    - MBTI: INFJ (unnoficial)
-    - Language: Indonesian, English, Korean (still gaining knowledge)
+    - Language: Indonesian, English, Korean (still learning)
 
 content:
   - title: Projects # Title for the section
