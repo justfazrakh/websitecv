@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Language: Indonesian, English, Korean (still learning)
 
 content:
-  - title: Projects # Title for the section
+  - title: Portofolio # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
